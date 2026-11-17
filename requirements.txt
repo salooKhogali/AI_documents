@@ -1,0 +1,8 @@
+streamlit
+ollama
+numpy
+pypdf
+langchain-community
+langchain-text-splitters
+faiss-cpu
+

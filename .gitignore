@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+archive/
+experiments/
+data/
+chunks_with_vectors.pkl
